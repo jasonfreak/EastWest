@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XML Spy v4.3 U (http://www.xmlspy.com) by zengcx (hundsun) -->
+<eastwest>
+	<window id="MainWin" use="0" sizex="32" sizey="16" posx="4" posy="4">
+		<value>Mywindow</value>
+		<button id="But1" use="0" sizex="8" sizey="3" posx="8" posy="8">
+			<value>but1</value>
+		</button>
+		<button id="But2" use="0" sizex="8" sizey="3" posx="17" posy="8">
+			<value>but2</value>
+		</button>
+	</window>
+	<info/>
+	<state/>
+	<lib>test.so</lib>
+</eastwest>
